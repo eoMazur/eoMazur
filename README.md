@@ -17,7 +17,7 @@
         	<li>🌱 I’m constantly improving my knowledge on <b>Java</b></li>
         	<li>🔭 I'm presently studying <b>Project Management</b> and <b>Scrun</b></li>
         	<li>💬 Ask me about <b>Java Projects</b> and <b>Agile development</b></li>
-        	<li>🤓 <b>I think am funny</b>, <b>I like gaming</b>,<b>music</b> and <b>lifting weights</b></li>
+        	<li>🤓 <b>I think am funny</b>, <b>I like gaming</b>,<b> music</b> and <b>lifting weights</b></li>
 	</ul>
     </div>
 </div>
