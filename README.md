@@ -44,6 +44,6 @@
 
 ### GitHub Streak
 <div align="center" style="display:flex;flex-direction=row;justify-content=space-between;">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=eomazur&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />   
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=eomazur&show_icons=true&theme=nightowl&count_private=true" />   
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomazur&show_icons=true&theme=nightowl&count_private=true" />
 </div>
